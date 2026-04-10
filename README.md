@@ -12,6 +12,12 @@ A production-ready REST API featuring JWT authentication, refresh token rotation
 
 ---
 
+# RESTful Auth API with JWT
+
+[**🚀 View Live Demo**](https://auth-api-tyi2.onrender.com) | [**📂 Documentation**](#api-endpoints)
+
+A production-ready REST API featuring JWT authentication...
+
 ## Project Structure
 
 ```
@@ -170,3 +176,6 @@ curl -X POST http://localhost:5000/api/auth/refresh \
 - Refresh token sent as **httpOnly cookie** (not accessible via JavaScript)
 - **Reuse detection** — replayed refresh tokens are rejected
 - Admin role cannot be self-assigned
+
+  ## Connect with me
+- [LinkedIn](www.linkedin.com/in/ishitachaurasia)
