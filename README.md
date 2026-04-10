@@ -178,4 +178,4 @@ curl -X POST http://localhost:5000/api/auth/refresh \
 - Admin role cannot be self-assigned
 
   ## Connect with me
-- [LinkedIn](www.linkedin.com/in/ishitachaurasia)
+- [LinkedIn](https://www.linkedin.com/in/ishitachaurasia/)
